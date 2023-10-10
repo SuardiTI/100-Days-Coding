@@ -1,0 +1,24 @@
+package Day2;
+public class Main {
+    public static void main(String[] args) {
+        byte angka = 10;
+        int angka1 = 12;
+        float angka2 = 120.5f;
+        double angka3 = 90.5;
+        long panjang = 100;
+        char nilai = 'A';
+        boolean status = true;
+        short umur = 16;
+        
+        System.out.println(angka);
+        System.out.println(angka1);
+        System.out.println(angka2);
+        System.out.println(angka3);
+        System.out.println(panjang);
+        System.out.println(nilai);
+        System.out.println(status);
+        System.out.println(umur);
+        
+        }   
+    }
+    
