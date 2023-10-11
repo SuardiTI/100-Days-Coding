@@ -1,0 +1,25 @@
+package day3;
+
+public class Main {
+    
+    public static void main(String[] args) {
+        String nama = "Suardi";
+        String alamat = "Mamasa";
+        char gol_darah = 'A';
+        int umur = 18;
+        double tinggi_badan = 120.5;
+        double berat_badan = 20.5;
+        boolean status_pelajar = true;
+        String nama_universitas = "UNSULBAR";
+        
+        System.out.println(nama);
+        System.out.println(alamat);
+        System.out.println(gol_darah);
+        System.out.println(umur);
+        System.out.println(tinggi_badan);
+        System.out.println(berat_badan);
+        System.out.println(status_pelajar);
+        System.out.println(nama_universitas);
+        
+        }   
+    
