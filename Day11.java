@@ -22,7 +22,7 @@ public class Main {
         
         System.out.print("Total "+(total_tahun = target/tabungan)+" Bulan"+' ');
         
-        System.out.print("Atau "+(30.0 / bulan)+" Tahun"+"\n");
+        System.out.print("Atau "+(total_tahun / bulan)+" Tahun"+"\n");
         
         System.out.println("Jadi Waktu Yang Dibutuhkan Bagi Sambo Untuk Membeli PC Gaming Seharga 150 Jt Adalah 2.5 Tahun");
     }
