@@ -23,8 +23,6 @@ public class Main {
         else{
             System.out.print("Nilai \t\t: E");
         }
-            
-    }
-        
+    }  
 }
     
