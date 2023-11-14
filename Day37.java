@@ -6,6 +6,6 @@ public class Main {
         for(;;){
             System.out.println("Saya Sedang Belajar Java");
         }
-    }
+    } 
     
 }
