@@ -6,7 +6,7 @@ public class Main {
         //continue
         
         for(int i=1; i < 50; i++){
-            if(i == 30){ //program akan dilanjutkan ke literasi selanjutnya ketika nilai i sama dengan 30
+            if(i == 30){ //ketika nilai i sudah sama dengan 30 maka akan dilanjutkan ke angka selanjutnya
                 continue;
             }
             System.out.println(i);
