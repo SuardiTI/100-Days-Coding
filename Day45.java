@@ -21,7 +21,7 @@ Buatlah program yang dapat mengetahui penghasilan bersih tiap bulan seseorang de
         double gaji = x.nextDouble();
         
         x.nextLine();/*ini digunakan agar sistem membersihkan newline yang ada di buffer setelah 
-                     membaca inputan double, sehingga dapat membaca inputan String di bawah.*/
+                     membaca input double, sehingga dapat membaca input String di bawah.*/
         
         System.out.print("Jenis Pekerjaan (PNS) Ya/Tidak : ");
         String pilihan = x.nextLine();
