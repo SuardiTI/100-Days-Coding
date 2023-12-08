@@ -1,4 +1,4 @@
-package Day61;
+ package Day61;
 
 public class Main {
     //fungsi untuk menjumlah
